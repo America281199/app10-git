@@ -5,10 +5,10 @@
    id = "com.phonegap.example10"
    version = "1.0.0">
    
-  <name> app10 Biodiversidad </name>
+  <name> app10 Tierra, biodiversidad y conciencia ecologica </name>
   
   <description>
-   Aplicacion que muestra la biodiversidad, tierra y mas
+   Aplicacion que muestra el dia mundial de la tierra, el dia internacional de la biodiversidad y la conciencia ecologica.
   </description>
   
   <author href="https://build.phonegap.com" email="amerikdhamar@gmail.com">
@@ -33,8 +33,8 @@
  
  <!-- <plugin name="cordova-plugin-geolocation" source="npm" /> -->
   <!-- Third part plugins -->
-  
-   <!--Para accesar a paginas en internet-->
+ 
+ <!--Para accesar a paginas en internet-->
  <allow-intent href="https://*/*"/> 
  <acces origin="https://*/*"/>
  <allow-intent href="http://*/*"/>
@@ -44,3 +44,5 @@
   
  <icon src="res/android/mdpi.png" />
  </widget> 
+  
+  
